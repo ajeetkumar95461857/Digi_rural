@@ -1,0 +1,15 @@
+.box{
+    justify-content: center;
+}
+.box1{
+    /* padding-top: 10px; */
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    max-width: 48vw;
+    height: 6vh;
+    position: relative;
+    top: 2px;
+    
+}
