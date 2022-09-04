@@ -3,12 +3,14 @@
     justify-content: center;
     text-align: center;
     /* border:2px solid black; */
-    width:252px;
+    width:48vw;
+    
 }
 .box1{
     display: flex;
     justify-content: center;
     margin: 10px;
+    background-color: #8D918D;
 }
 .main{
     position: relative;
