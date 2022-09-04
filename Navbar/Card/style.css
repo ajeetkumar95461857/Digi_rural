@@ -1,3 +1,6 @@
+body{
+    background-image: url(/image/paul-earle-wVjd0eWNqI8-unsplash.jpg);
+}
 .box{
     margin: auto;
     justify-content: center;
@@ -15,6 +18,7 @@
 .main{
     position: relative;
     top: 100px;
+   
 }
 .box1 a{
     text-decoration: none;
