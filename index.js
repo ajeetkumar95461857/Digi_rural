@@ -1,5 +1,5 @@
 const button=document.getElementById("button11");
-button.addEventListener("click",runSpeechRecognition())
+button.addEventListener("click",runSpeechRecognition)
 function runSpeechRecognition() {
    
     var output = document.getElementById("output");
