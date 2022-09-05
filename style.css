@@ -1,0 +1,22 @@
+.button{
+    height: 14vw;
+    width: 13vw;
+    border: 2px solid black;
+    justify-content: center; 
+    position: sticky;
+    top: 91vh;   
+    left: 92vw;
+}
+.main{
+    height: 100vh;
+}
+#button11{
+    height: 100px;
+}
+.hide {
+    display:none;
+}
+.show {
+    display:block;
+}
+
